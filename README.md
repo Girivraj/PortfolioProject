@@ -1,2 +1,2 @@
 # SQLPortfolioProject
-Covid Data Exploration
+Covid Data Exploration with SQL 
